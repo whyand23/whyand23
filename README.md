@@ -1,6 +1,7 @@
 
 
-##Just Hobbyist
+## Just Hobbyist
+Mainly doing C because other languanges are just too overstimulating for my fried brain
 
 <!--
 **whyand23/whyand23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
